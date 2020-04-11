@@ -6,9 +6,7 @@ In this you will learn what React JS is and the fundamentals such as components,
 
 **This is a very basic app but useful to understand the React Components, states, Data Flow, parent to child etc. .**
 
-## Live URL :-
-
-> [Counter App](https://...)
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 **OR your can do the following to run in your local machine I use WINDOWS for this**
 
